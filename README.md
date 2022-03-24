@@ -1,11 +1,5 @@
 - 👋 soy @pinguinoruso, tambien conocido como rusian
-- 👀 Estoy interesado en ver tetas
-- 🌱 Actualmente estoy aprendiendo historia del partido socialista aleman
-- 💞️ no quiero colaborar en nada.
-- 📫 Para contactarme: no me contactes
-
-
-
-(nombre real: Mauricio
-apellido real: Ferreyra
-Edad actual: 17)
+- 👀 Estoy interesado en Node.js
+- 🌱 Actualmente estoy aprendiendo Python y algo que me encuentre por ahi
+- 💞️ no quiero colaborar en nada que no me de dinero.
+- 📫 Para contactarme: RusianNotRussian en discord
