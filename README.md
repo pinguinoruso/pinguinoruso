@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Capybara(Social Media)<br>🌱 I’m currently learning Go(GoLang)<br>💬 Ask me about JS/NodeJS<br>⚡ Fun fact: I love Cats :)
+🔭 I’m currently working on Capybara(Social Media)<br>🌱 I’m currently learning Go(GoLang)<br>💬 Ask me about JS/NodeJS<br>⚡ Fun fact: I love Cats :)<br>For some reason it says I only made 3 commits, that's wrong, I made a lot but they are made on my Capybara private repo 
 
 
 # 💻 Tech Stack:
